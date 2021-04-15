@@ -1,1 +1,3 @@
 mlruns
+*.pth
+xgb_mlflow_pyfunc

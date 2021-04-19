@@ -1,3 +1,4 @@
 mlruns
 *.pth
 xgb_mlflow_pyfunc
+track1/outputs

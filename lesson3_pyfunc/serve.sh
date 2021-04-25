@@ -1,0 +1,1 @@
+mlflow models serve -m add_n_model -p 1234

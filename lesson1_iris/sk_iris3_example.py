@@ -26,4 +26,4 @@ input_example = {
   "petal width (cm)": 0.2
 }
 mlflow.sklearn.log_model(clf, "iris_rf", signature=signature, input_example=input_example)
-
+mlflow.sklearn.save_model(path="iris_rf", sk_model=clf)

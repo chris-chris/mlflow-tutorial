@@ -1,0 +1,1 @@
+mlflow models serve -m xgb_mlflow_pyfunc -p 1234

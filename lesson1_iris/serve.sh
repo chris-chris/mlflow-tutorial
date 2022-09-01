@@ -1,0 +1,1 @@
+mlflow models serve -m iris_rf -p 1234

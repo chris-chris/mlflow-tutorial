@@ -1,0 +1,1 @@
+mlflow models serve -m mnist_cnn -p 1234

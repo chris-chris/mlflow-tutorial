@@ -5,3 +5,4 @@ track1/outputs
 lesson1_iris/iris_rf
 lesson3_pyfunc/add_n_model
 sqlite.db
+lesson2_mnist/mnist_cnn

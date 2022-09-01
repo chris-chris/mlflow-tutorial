@@ -1,0 +1,1 @@
+mlflow models serve -m sum_n_model -p 1234

@@ -6,3 +6,4 @@ lesson1_iris/iris_rf
 lesson3_pyfunc/add_n_model
 sqlite.db
 lesson2_mnist/mnist_cnn
+lesson3_pyfunc/sum_n_model
